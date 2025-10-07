@@ -1,0 +1,10 @@
+###
+POST http://localhost:8080/api/cliente/save
+Content-Type: application/json
+
+{
+    "name": "Diego",
+    "lastName": "Torres",
+    "email": "diegotorre@gmail.com",
+    "phone": "3215487659"
+}
